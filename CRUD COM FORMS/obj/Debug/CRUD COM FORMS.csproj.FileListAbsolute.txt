@@ -1,0 +1,14 @@
+C:\Users\Israilla\source\repos\CRUD COM FORMS\CRUD COM FORMS\obj\Debug\CRUD COM FORMS.csprojAssemblyReference.cache
+C:\Users\Israilla\source\repos\CRUD COM FORMS\CRUD COM FORMS\obj\Debug\CRUD_COM_FORMS.Form1.resources
+C:\Users\Israilla\source\repos\CRUD COM FORMS\CRUD COM FORMS\obj\Debug\CRUD_COM_FORMS.Properties.Resources.resources
+C:\Users\Israilla\source\repos\CRUD COM FORMS\CRUD COM FORMS\obj\Debug\CRUD COM FORMS.csproj.GenerateResource.cache
+C:\Users\Israilla\source\repos\CRUD COM FORMS\CRUD COM FORMS\bin\Debug\CRUD COM FORMS.exe.config
+C:\Users\Israilla\source\repos\CRUD COM FORMS\CRUD COM FORMS\bin\Debug\CRUD COM FORMS.exe
+C:\Users\Israilla\source\repos\CRUD COM FORMS\CRUD COM FORMS\bin\Debug\CRUD COM FORMS.pdb
+C:\Users\Israilla\source\repos\CRUD COM FORMS\CRUD COM FORMS\bin\Debug\MySql.Data.dll
+C:\Users\Israilla\source\repos\CRUD COM FORMS\CRUD COM FORMS\bin\Debug\SqlServerConnections.dll
+C:\Users\Israilla\source\repos\CRUD COM FORMS\CRUD COM FORMS\bin\Debug\SqlServerConnections.pdb
+C:\Users\Israilla\source\repos\CRUD COM FORMS\CRUD COM FORMS\bin\Debug\SqlServerConnections.dll.config
+C:\Users\Israilla\source\repos\CRUD COM FORMS\CRUD COM FORMS\obj\Debug\CRUD COM FORMS.csproj.CopyComplete
+C:\Users\Israilla\source\repos\CRUD COM FORMS\CRUD COM FORMS\obj\Debug\CRUD COM FORMS.exe
+C:\Users\Israilla\source\repos\CRUD COM FORMS\CRUD COM FORMS\obj\Debug\CRUD COM FORMS.pdb
